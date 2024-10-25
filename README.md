@@ -55,7 +55,7 @@ This JavaFX application allows users to perform CRUD (Create, Read, Update, Dele
 - **ContactDAO.java**: Data Access Object (DAO) class for interacting with the database to perform CRUD operations.
 - **ContactView.java**: JavaFX UI class for displaying and interacting with the contact table and input fields.
 - **DbConnection.java**: Manages the database connection.
-- **MainApp.java**: Main application class that initializes the UI and sets up event handlers.
+- **Main.java**: Main application class that initializes the UI and sets up event handlers.
 
 ## Database Schema
 The database schema for the `contact` table:
